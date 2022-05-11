@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../UIComponents/uicomponents.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:PokemonGames.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:../UIComponents/Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
